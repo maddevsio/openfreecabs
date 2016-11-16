@@ -1,6 +1,6 @@
 # OpenFreeCabs
 
-Web/mobile app that shows nearest taxi's by your location
+https://openfreecabs.org Web/mobile app that shows nearest taxi's by your location
 
 # History behind service
 
