@@ -23,4 +23,16 @@ Service consists of these components:
 5. [Web App](https://github.com/maddevsio/openfreecabs-web) - Web  app for users, that shows nearest taxi drivers
 
 
-# Installation
+# Installation step by step
+
+So installation is easy and follow steps, described in README.md. The order is
+
+1. [Storage](https://github.com/maddevsio/openfreecab-storage)
+2. [Crawler](https://github.com/maddevsio/openfreecab-crawler)
+3. And maybe [Web App](https://github.com/maddevsio/openfreecabs-web)
+
+Running this project at production doesn't covered because everyone choose his own path to run it.
+
+# Contributing, PR, issues
+
+You're welcome!
