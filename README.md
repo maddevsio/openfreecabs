@@ -4,15 +4,15 @@ https://openfreecabs.org Web/mobile app that shows nearest taxi's by your locati
 
 # History behind service
 
-So history starts in Bishkek city, Kyrgyzstan. Here we have some problems to decide on, namely, which taxi service to choose from.
-Let's imagine.
-You live in the microdistricts of Bishkek city and you're in a hurry to work. You know that upon order almost all taxis will arrive to your destination within around 20-30 mins. And then what? You book the first taxi company and receive text message that "We can't find you a car". You book the second one and the same thing takes place. You think, that there is no way that could be happening.
+It all has started in the Bishkek city, Kyrgyzstan. There are some problems here people come across everyday, namely, which taxi service to choose.
+Just imagine.
+You live in one of the microdistricts in Bishkek, and you're in hurry to the work. You think that upon ordering almost all the taxis will arrive to your destination in 20-30 mins. Guess what? You call the first taxi company and get the text message: "We can't find you a car". You call the second one and the same happens again. You think it is impossible to happen. But it happens and so you're late to your work. 
 
-That was the motivation to create this service. We would like for the time that people spend to book a taxi during rush hour to be less.
+That was the motivation to create this service. We simply want to save time people spend to find the right taxi.
 
 # What we do? And some architecture of service
 
-We decided to take all free drivers from open sources of all taxi services in Bishkek and make a service that provides us the information as to which service we should place an order with.
+We took all free drivers info from open data sources of all taxi companies in Bishkek and made a service that shows this aggregated info in single place. So you can see what taxi services are available near you and order one of them.
 
 Service consists of these components:
 
@@ -25,13 +25,13 @@ Service consists of these components:
 
 # Installation step by step
 
-So installation is easy and follow steps, described in README.md. The order is
+Installation is easy. Just follow steps described in README.md. The order is
 
 1. [Storage](https://github.com/maddevsio/openfreecab-storage)
 2. [Crawler](https://github.com/maddevsio/openfreecab-crawler)
 3. And maybe [Web App](https://github.com/maddevsio/openfreecabs-web)
 
-Running this project at production doesn't covered because everyone choose his own path to run it.
+Running this project at production isn't described here because everyone may choose their own path to run it.
 
 # Contributing, PR, issues
 
